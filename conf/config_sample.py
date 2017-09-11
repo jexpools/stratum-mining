@@ -79,6 +79,8 @@ LISTEN_WS_TRANSPORT = None
 # Port used for secure WebSocket, 'None' for disabling WSS
 LISTEN_WSS_TRANSPORT = None
 
+CONFIG_VERSION = False
+
 # Salt used for Block Notify Password
 PASSWORD_SALT = 'some_crazy_string'
 
