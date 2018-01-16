@@ -81,6 +81,8 @@ LISTEN_WSS_TRANSPORT = None
 
 CONFIG_VERSION = False
 
+DEFAULT_DIFFICULTY = 0.01
+
 # Salt used for Block Notify Password
 PASSWORD_SALT = 'some_crazy_string'
 
